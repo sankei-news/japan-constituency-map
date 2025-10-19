@@ -18,9 +18,9 @@ Credit example: "Data provided by Sankei News - Japan constituency / (https://gi
 
 ## Data Source　（データソース）
 Map Data: ["Administrative Boundary Data"](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-v2_3.html) provided by National Land Information Division, National Spatial Planning and Regional Policy Bureau, MLIT of Japan (retrieved on 2024-07-19).  
-Constituency Data：["Single-seat constituency Polygons (Map Data)"](https://home.csis.u-tokyo.ac.jp/~nishizawa/senkyoku/) provided by Akira Nishizawa, Center for Spatial Information Science, the University of Tokyo (retrieved on 2024-07-19).
+Constituency Data：["Single-seat constituency Polygons (Map Data)"](https://gtfs-gis.jp/senkyoku/) provided by Akira Nishizawa, Center for Spatial Information Science, the University of Tokyo (retrieved on 2024-07-19).
 
 ---
 
 地図データ：[国土交通省「国土数値情報（行政区域データ）」](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-v2_3.html) （2024年07月19日取得）  
-選挙区データ：[東京大学空間情報科学研究センター・西澤明「小選挙区ポリゴン」](https://home.csis.u-tokyo.ac.jp/~nishizawa/senkyoku/) (2024年07月19日取得)
+選挙区データ：[東京大学空間情報科学研究センター・西澤明「小選挙区ポリゴン」](https://gtfs-gis.jp/senkyoku/) (2024年07月19日取得)
